@@ -18,7 +18,7 @@ Tool Information Gathering Write With Python.
   |  | /("'` '--.  .-'   '-...-'`       '-...-'`'--.  .-'     .' |
   |  | \ '---.  |  |                              |  |      .   | /
   |__|  /'""'.\ |  |      Developer:OmidRanjbar   |  |    .'.'| |//
-       ||     |||  '.'    Channel  :@aGreyHat    |  '.'.'.'.-'  /
+       ||     |||  '.'    Channel  :@EBlackHat    |  '.'.'.'.-'  /
         \. __./ |   /     ToolsName:IGTOOLS      |   / .'   \_.'
         `'---'  `'-'                               `'-'
 
@@ -62,4 +62,4 @@ IG-Tools Developr Menu (https://uupload.ir/files/0qm_untitlsed.png)
 
 ### Contact us
 - Backup section : https://t.me/Deusnegro
-- Channel Telegram : https://t.me/aGreyHat
+- Channel Telegram : https://t.me/EBlackHat
