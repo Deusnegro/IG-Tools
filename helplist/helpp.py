@@ -17,7 +17,7 @@ def Banner():
   |  | /("'` '--.  .-'   '-...-'`       '-...-'`'--.  .-'     .' |   
   |  | \ '---.  |  |                              |  |      .   | / 
   |__|  /'""'.\ |  |      Developer:OmidRanjbar   |  |    .'.'| |// 
-       ||     |||  '.'    Channel  :@aGreyHat    |  '.'.'.'.-'  /  
+       ||     |||  '.'    Channel  :@EBlackHat    |  '.'.'.'.-'  /  
         \. __./ |   /     ToolsName:IGTOOLS      |   / .'   \_.'   
         `'---'  `'-'                               `'-'                       
            """)       
@@ -57,7 +57,7 @@ def infolist2():
       time.sleep(0.1)
       print (Fore.YELLOW+"  [$]  "+Fore.BLUE+"  Thank's  :  "+Fore.WHITE+"ArashGholipor\n")
       time.sleep(0.1)
-      print (Fore.YELLOW+"  [$]  "+Fore.BLUE+"  Channel Telegram ID  :  "+Fore.WHITE+"@aGeryHat Please Join ;)\n")
+      print (Fore.YELLOW+"  [$]  "+Fore.BLUE+"  Channel Telegram ID  :  "+Fore.WHITE+"@EBlackHat Please Join ;)\n")
       time.sleep(0.1) 
       try:
 
