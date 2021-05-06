@@ -6,7 +6,7 @@
 Tool Information Gathering Write With Python.
 
 
-## PreView
+## HOme
 <pre>
                          .-'''-.        .-'''-.
                         '   _    \     '   _    \
@@ -17,7 +17,7 @@ Tool Information Gathering Write With Python.
   |  | \`-' / .'     |`.   ` ..' /   `.   ` ..' /.'     |       _
   |  | /("'` '--.  .-'   '-...-'`       '-...-'`'--.  .-'     .' |
   |  | \ '---.  |  |                              |  |      .   | /
-  |__|  /'""'.\ |  |      Developer:OmidRanjbar   |  |    .'.'| |//
+  |__|  /'""'.\ |  |      Developer:Zed           |  |    .'.'| |//
        ||     |||  '.'    Channel  :@EBlackHat    |  '.'.'.'.-'  /
         \. __./ |   /     ToolsName:IGTOOLS      |   / .'   \_.'
         `'---'  `'-'                               `'-'
@@ -45,6 +45,7 @@ Tool Information Gathering Write With Python.
 ## Install
 ```bash
 git clone https://github.com/Deusnegro/IG-Tools.git
+cd Ig-tools
 pip install -r requirements.txt
 IGTOOLS.py 
 ```
@@ -54,11 +55,6 @@ IG-Tools Menu (https://uupload.ir/files/50t_untitled.png)
 IG-Tools Developr Menu (https://uupload.ir/files/0qm_untitlsed.png)
 
 
-
-
-### Thanks to
-    Arash golipor
-     
 
 ### Contact us
 - Backup section : https://t.me/Deusnegro
