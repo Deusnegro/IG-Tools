@@ -87,7 +87,7 @@ def infohelp():
         This tool is open source. You can customize this tool
         It has 24-hour support
         Backup section:"""+Fore.WHITE+""" https://t.me/Deusnegro"""+Fore.BLUE+"""
-        Cannele Address:"""+Fore.WHITE+""" https://t.me/aGreyHat 
+        Cannele Address:"""+Fore.WHITE+""" https://t.me/EBlackHat 
         """)
     try:
         input(Fore.BLUE+" [-M] "+Fore.WHITE+"Back To Menu (Press Enter...) ")
