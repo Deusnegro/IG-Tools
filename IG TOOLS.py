@@ -108,6 +108,7 @@ while True:
         print(Fore.RED+"GOOD BAY ;)")
         sys.exit()
     elif inf == "":
+        sys.exit()
         print(Fore.YELLOW+"  [!]  "+Fore.WHITE+"Error: data nat faund")
 
     # elif inf == "-G":
