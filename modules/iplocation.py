@@ -31,7 +31,7 @@ def __start__():
         print (Fore.GREEN+" [+]"+Fore.WHITE+" asn = "+ source["asn"])
         print (Fore.GREEN+" [+]"+Fore.WHITE+" currency_name = "+ source["currency_name"])
         print (Fore.GREEN+" [+]"+Fore.WHITE+" currency = "+ source["currency"])
-        print (Fore.GREEN+" [+]"+Fore.WHITE+" postal = "+ source["postal"])
+        # print (Fore.GREEN+" [+]"+Fore.WHITE+" postal = "+ source["postal"])
         print (Fore.GREEN+" [+]"+Fore.WHITE+" utc_offset = "+ source["utc_offset"]+"\n")
         try:
             input(Fore.BLUE+" [$] "+Fore.WHITE+"Back To Menu (Press Enter...) ")
@@ -40,5 +40,7 @@ def __start__():
             sys.exit()  
     except:
         print(Fore.RED+"Sorry Please Enter IP Address")
+        sys.exit()
+
 
 
