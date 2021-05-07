@@ -6,7 +6,7 @@
 Tool Information Gathering Write With Python.
 
 
-## HOme
+## Home
 <pre>
                          .-'''-.        .-'''-.
                         '   _    \     '   _    \
