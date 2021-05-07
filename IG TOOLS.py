@@ -107,7 +107,7 @@ while True:
         helpp.Banner()
         print(Fore.RED+"GOOD BAY ;)")
         sys.exit()
-    elif inf == "":
+    elif inp == "":
         sys.exit()
         print(Fore.YELLOW+"  [!]  "+Fore.WHITE+"Error: data nat faund")
 
