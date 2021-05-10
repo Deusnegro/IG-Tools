@@ -5,7 +5,7 @@
 
 Tool Information Gathering Write With Python.
 <p align="center">
-  <img src="https://img.shields.io/badge/NAME%20TOOL-IGTOOL-red"/>
+  <img src="https://img.shields.io/badge/NAME%20TOOL-IGTOOLS-red"/>
   <img src="https://img.shields.io/badge/CODED%20WITH-PYTHON-%233572A5"/>
    <img src="https://img.shields.io/badge/MADE%20IN-IRAN-Green"/>
 </p>
