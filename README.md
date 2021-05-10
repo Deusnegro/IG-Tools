@@ -1,4 +1,4 @@
-[![Python 3.8]](http://www.python.org/download/) 
+[![Python 3.9.5]](http://www.python.org/download/) 
 
 
 # IG TOOLS V 2.1
@@ -11,7 +11,7 @@
   
 </p>
 
-## Home
+## Preview
 <pre>
                          .-'''-.        .-'''-.
                         '   _    \     '   _    \
@@ -22,35 +22,37 @@
   |  | \`-' / .'     |`.   ` ..' /   `.   ` ..' /.'     |       _
   |  | /("'` '--.  .-'   '-...-'`       '-...-'`'--.  .-'     .' |
   |  | \ '---.  |  |                              |  |      .   | /
-  |__|  /'""'.\ |  |      Developer:Zed           |  |    .'.'| |//
-       ||     |||  '.'    Channel  :@EBlackHat    |  '.'.'.'.-'  /
-        \. __./ |   /     ToolsName:IGTOOLS      |   / .'   \_.'
+  |__|  /'""'.\ |  |      Developer:Omidranjbar   |  |    .'.'| |//
+       ||     |||  '.'    Channel:@EBlackHat      |  '.'.'.'.-'  /
+        \. __./ |   /     Coded With: Python      |   / .'   \_.'
         `'---'  `'-'                               `'-'
-
--01  [-$]  - Welcome To IGTOOLS        [-k]  - Developer
--02  [-h]  - Help                      [-B]  - Bypass Cloud Flare
--03  [-c]  - Cms Detect                [-T]  - Trace Toute
--04  [-V]  - Reverse IP                [-P]  - Port Scan
--05  [-H]  - Show HTTP Header          [-D]  - Find Shared DNS
--06  [-W]  - Whois site                [-L]  - DNS Lookup
--07  [-R]  - Robots Scanner            [-F]  - Admin Page Finder
--08  [-q]  - CMS Detection Woedperess  [-i]  - IP Location
--09  [-X]  - Exit
-
- ┌─[IGTOOLS~@Root]
- └──╼ $
 </pre>
 
+## Feature
+- Bypass Cloud Flare
+- Cms Detect
+- Trace Toute
+- Reverse IP
+- Port Scan
+- Show HTTP Header
+- Find Shared DNS
+- Whois site
+- DNS Lookup
+- Robots Scanner
+- Admin Page Finder
+- CMS Detection Woedperess
+- IP Location
 
 ## Operating Systems Tested
 - Windows 10
-
+- Kali Linux
+- Ubuntu
 
 
 ## Install
 ```bash
 git clone https://github.com/Deusnegro/IG-Tools.git
-cd Ig-tools
+cd Ig-tools-main
 pip install -r requirements.txt
 IGTOOLS.py 
 ```
@@ -58,7 +60,6 @@ IGTOOLS.py
 ## ScreenShot
 IG-Tools Menu (https://uupload.ir/files/50t_untitled.png)
 IG-Tools Developr Menu (https://uupload.ir/files/0qm_untitlsed.png)
-
 
 
 ### Contact us
