@@ -4,7 +4,10 @@
 # IG TOOLS V1
 
 Tool Information Gathering Write With Python.
-
+<p align="center">
+  <img src="https://img.shields.io/badge/License-BSD--3--Revised-yellow"/>
+  <img src="https://img.shields.io/badge/Coded%20with-Python-%233572A5"/>
+</p>
 
 ## Home
 <pre>
