@@ -4,17 +4,19 @@ import sys
 import ipapi
 from colorama import Fore,init
 import time
+import socket
 
 def __start__():
     init()
-    print(Fore.GREEN+"\n [+] "+Fore.WHITE+"Enter 'IP Address'")
+    print(Fore.GREEN+"\n [+] "+Fore.WHITE+"Enter IP Address or Domain \n")
     
     site = input(Fore.GREEN+" ┌─["+Fore.BLUE+"IGTOOLS"+"~"+Fore.RED+"@Root"+Fore.WHITE+"/"+"IP-Location"+Fore.GREEN+"""]
  └──╼ """+Fore.WHITE+"$ ")
 
-    source = ipapi.location(ip=site)
+    taeget = socket.gethostbyname(site)
+    source = ipapi.location(ip=taeget)
     try:
-        print (Fore.YELLOW+" [!]"+Fore.WHITE+" Please Wait While loading\n")
+        print (Fore.YELLOW+"\n [!]"+Fore.WHITE+" Please Wait While loading\n")
         time.sleep(5)
         print (Fore.GREEN+" [+]"+Fore.WHITE+" ip = "+ source["ip"])
         print (Fore.GREEN+" [+]"+Fore.WHITE+" version = "+ source["version"])
