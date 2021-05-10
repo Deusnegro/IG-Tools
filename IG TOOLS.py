@@ -42,16 +42,19 @@ except:
     #--------------------------
 
 while True:
- try:    
+ try:   
     helpp.Banner()
     helpp.infolist1()
     inp = input(Fore.GREEN+" ┌─["+Fore.BLUE+"IGTOOLS"+Fore.BLUE+"~"+Fore.RED+"@Root"+Fore.GREEN+"""]
  └──╼ """+Fore.WHITE+"$ ")
     if inp == "-k":
+        helpp.Banner()
         helpp.infolist2()
     elif inp == "-h":
+        helpp.Banner()
         helpp.infohelp()
     elif inp == "-q":
+        helpp.Banner()
         helpp.infowp()
         owp=input(Fore.GREEN+" ┌─["+Fore.BLUE+"IGTOOLS"+Fore.BLUE+"~"+Fore.RED+"@Root"+Fore.WHITE+"/"+"CMS Detection"+Fore.GREEN+"""]
  └──╼ """+Fore.WHITE+"$ ")
