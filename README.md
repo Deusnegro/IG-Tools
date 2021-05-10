@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/NAME%20TOOL-IGTOOLS-red"/>
   <img src="https://img.shields.io/badge/CODED%20WITH-PYTHON-%233572A5"/>
    <img src="https://img.shields.io/badge/MADE%20IN-IRAN-Green"/>
-  <img src="https://img.shields.io/badge/Tool Information Gathering Write With Python%20-.-red"/>
+  <img src="https://img.shields.io/badge/Tool Information Gathering Write With Python%20-.-blue"/>
   
 </p>
 
