@@ -47,7 +47,9 @@
 - Windows 10
 - Kali Linux
 - Ubuntu
-
+ 
+## Author
+- OmidRanjbar(Zed)
 
 ## Install
 ```bash
@@ -61,7 +63,9 @@ IGTOOLS.py
 IG-Tools Menu (https://uupload.ir/files/50t_untitled.png)
 IG-Tools Developr Menu (https://uupload.ir/files/0qm_untitlsed.png)
 
+## About us
+-  Channel Telegram : https://t.me/EBlackHat
 
 ### Contact us
 - Backup section : https://t.me/Deusnegro
-- Channel Telegram : https://t.me/EBlackHat
+
