@@ -24,7 +24,7 @@
   |  | \ '---.  |  |                              |  |      .   | /
   |__|  /'""'.\ |  |      Developer:Omidranjbar   |  |    .'.'| |//
        ||     |||  '.'    Channel:@EBlackHat      |  '.'.'.'.-'  /
-        \. __./ |   /     Coded With: Python      |   / .'   \_.'
+        \. __./ |   /     Coded With:Python       |   / .'   \_.'
         `'---'  `'-'                               `'-'
 </pre>
 
