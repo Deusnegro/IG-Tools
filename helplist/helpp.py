@@ -2,11 +2,16 @@ import os
 from colorama import Fore
 import time
 import sys
-def Banner():
+import platform
 
-    os.system("cls")
-    
-    print(Fore.GREEN+"""\n    
+def Banner():
+    a=platform.uname()
+    b=a[0]
+    if b == "Linux":
+        os.system("clear")
+    elif b == "Windows":
+        os.system("cls")
+    print(Fore.GREEN+"""    
                          .-'''-.        .-'''-.                      
                         '   _    \     '   _    \                    
   .--.                /   /` '.   \  /   /` '.   \                   
@@ -15,11 +20,11 @@ def Banner():
   |  || |  | |  .' |_\    \     / / \    \     / / .' |_             
   |  | \`-' / .'     |`.   ` ..' /   `.   ` ..' /.'     |       _    
   |  | /("'` '--.  .-'   '-...-'`       '-...-'`'--.  .-'     .' |   
-  |  | \ '---.  |  |                              |  |      .   | / 
-  |__|  /'""'.\ |  |      Developer:OmidRanjbar   |  |    .'.'| |// 
-       ||     |||  '.'    Channel  :@EBlackHat    |  '.'.'.'.-'  /  
-        \. __./ |   /     ToolsName:IGTOOLS      |   / .'   \_.'   
-        `'---'  `'-'                               `'-'                       
+  |  | \ '---.  |  |      Developer:Omidranjbar    |  |      .   | / 
+  |__|  /'""'.\ |  |     Coded With:Python         |  |    .'.'| |// 
+       ||     |||  '.'      Channel:@EBlackHat     |  '.'.'.'.-'  /  
+        \. __./ |   /                              |   / .'   \_.'   
+        `'---'  `'-'                                `'-'                       
            """)       
 # ₿
 def infolist1():
@@ -51,7 +56,7 @@ def infolist1():
 
 def infolist2():
 
-      Banner()
+      
       time.sleep(0.1)
       print (Fore.YELLOW+"  [$]  "+Fore.BLUE+"  Develper  :  "+Fore.WHITE+"OmidRanjbar(Zed)\n")
       time.sleep(0.1)
@@ -69,7 +74,7 @@ def infolist2():
 
 
 def infowp():
-    Banner()
+    
     
     print(Fore.WHITE+"-1"+Fore.GREEN+"  [-p]  "+Fore.WHITE+" - Get Plugins ")    
     time.sleep(0.1)
@@ -79,7 +84,7 @@ def infowp():
     time.sleep(0.1)
 
 def infohelp():
-    Banner()
+
     print(Fore.BLUE+"""
         Hello and welcome to the help section.
         You can use keywords and go to different sections
